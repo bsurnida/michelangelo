@@ -1,7 +1,7 @@
 # Michelangelo Styleguide
 [![npm version](https://badge.fury.io/js/michelangelo.svg)](https://badge.fury.io/js/michelangelo)
 
-
+#### This is a fork with some small modifications.
 
 ## Table of contents
 - [About](#about)
